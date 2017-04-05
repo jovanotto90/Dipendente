@@ -14,5 +14,6 @@ public class Main {
 	       dip2.stampa();
 	       dip2.stampaMalattia();
 	       System.out.println ("Salario: " + dip2.paga(7));
+	       //Ho fatto cose
 	}
 }
