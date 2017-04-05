@@ -1,6 +1,7 @@
 
 public class Dipendente_A extends Dipendente {
 	
+	//modificato da Marco
 	private int malattia;
 	
 	public Dipendente_A (String matricola, double stipendio, double straordinario) {
